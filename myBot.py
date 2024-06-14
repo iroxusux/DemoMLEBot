@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import dotenv
 import os
-from PyDiscoBot import commands
+import PyDiscoBot
 from MLEBot import mle_commands, mle_bot
 
 
@@ -33,7 +33,7 @@ if __name__ == '__main__':
 
     bot = MyBot('ub.',
                 intents,
-                [commands.Commands,
+                [PyDiscoBot.Commands,
                  mle_commands.MLECommands])
 
     bot.run(os.getenv('DISCORD_TOKEN'))
