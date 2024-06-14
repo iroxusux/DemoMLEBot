@@ -35,9 +35,10 @@ Version - 1.0.4
 ### Requirements
 
 MLEBot==1.0.4
+  - https://github.com/iroxusux/MLEBot
 
 PyDiscoBot==1.0.4
-
+  - https://github.com/iroxusux/PyDiscoBot
 
   
 
