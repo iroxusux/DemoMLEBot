@@ -11,6 +11,9 @@ MLE Bot is a Minor League E-Sports Franchise ready, python written Discord Bot.
 - season stats to get pretty html/css images!
 
 ## Setup
+Note: at this very moment, this setup is meant to run locally on a machine. This will run in a command console.
+If you close the console, the bot goes down.
+
   1. Download the .zip file from github:
      https://github.com/iroxusux/DemoMLEBot/
   2. Install python 3.11 from python.org:
