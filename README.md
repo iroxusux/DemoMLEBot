@@ -1,6 +1,6 @@
 # Demo MLE Bot
 
-MLE Bot is a Franchise ready, python written Discord Bot.
+MLE Bot is a Minor League E-Sports Franchise ready, python written Discord Bot.
 
 ## Features
 - .env file for control over environments of your Franchise
@@ -8,6 +8,7 @@ MLE Bot is a Franchise ready, python written Discord Bot.
 - roster channel support to automatically show your team off!
 - sprocket player lookup for easy player tracking/management
 - team-eligibility commands to stay on top of non-eligible players!
+- season stats to get pretty html/css images!
 
 ## Setup
   1. Download the .zip file from github:
