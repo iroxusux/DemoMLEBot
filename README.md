@@ -37,7 +37,7 @@ Version - 1.0.4
 
 ### Requirements
 
-MLEBot==1.0.4 ( :smiley_cat: follow this link to create your own bot! :smiley_cat: )
+MLEBot==1.0.5 ( :smiley_cat: follow this link to create your own bot! :smiley_cat: )
   - https://github.com/iroxusux/MLEBot
 
 PyDiscoBot==1.0.4
