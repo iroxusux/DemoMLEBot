@@ -43,5 +43,12 @@ MLEBot==1.0.4 ( :smiley_cat: follow this link to create your own bot! :smiley_ca
 PyDiscoBot==1.0.4
   - https://github.com/iroxusux/PyDiscoBot
 
-  
-
+## :soccer: Join MLE Today! :soccer:
+:sparkler: Main Site:
+  - https://mlesports.gg/
+    
+:postbox: Apply Today!:
+  - https://mlesports.gg/apply
+    
+:camera: Check out our twitter!:
+  - https://twitter.com/mlesportsgg
