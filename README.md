@@ -24,11 +24,15 @@ MLE Bot is a Minor League E-Sports Franchise ready, python written Discord Bot.
   7. Profit!
 
 ### Development Status
+
 Build - beta
+
 Version - 1.0.4
 
 ### Requirements
+
 MLEBot==1.0.4
+
 PyDiscoBot==1.0.4
 
 
